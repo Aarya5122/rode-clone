@@ -1,6 +1,6 @@
 # RODE CLONE PREVIEW
 
-https://youtu.be/QhwCY0s4Aqo
+https://user-images.githubusercontent.com/72256055/188300043-040514e1-268f-4511-9d91-9f6d06330085.mp4
 
 https://user-images.githubusercontent.com/72256055/188300050-59c05110-eb45-4cee-8b33-5d9132f5fe60.mp4
 
