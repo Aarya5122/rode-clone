@@ -1,8 +1,8 @@
 # RODE CLONE
 
-![RODE CLONE](./14.png)
+https://user-images.githubusercontent.com/72256055/188300043-040514e1-268f-4511-9d91-9f6d06330085.mp4
 
-![WATCH](./screenshots/InShot_20220828_112752982.mp4)
+https://user-images.githubusercontent.com/72256055/188300050-59c05110-eb45-4cee-8b33-5d9132f5fe60.mp4
 
 **Name**: Aarya Nanndaann Singh M N
 
