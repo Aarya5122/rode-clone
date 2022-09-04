@@ -6,25 +6,27 @@ https://user-images.githubusercontent.com/72256055/188300050-59c05110-eb45-4cee-
 
 **Name**: Aarya Nanndaann Singh M N
 
-**Time**:  90mins 
+**Time**:  12 hours
 
-**Concepts Explored**: CSS Positions, Flexbox, Background Properties, Handling SVG
+**Concepts Explored**:
+
+ Margin, Padding, Width, Background, Background Images, Media Queries and few more utility class it provides. How to use Manual valued classes. 
 
 ### **Stack**:
 
-![HTML](https://img.shields.io/badge/-HTML5-orange)
-![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![HTML5](https://img.shields.io/badge/-HTML5-orange)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue)
 
 
 
 ## Metadata Of Project
 **Site Type:** *STATIC*
 
-**Responsive:** ❌
+**Responsive:** ✅
 
 ## What I Learnt
 
-Here I got a chance to explore the CSS Position Property. After quite a bit of hit and trail I got a clarity on the values on what to use when. I had also explored flexbox concepts, Background properties and I also explored how to handle SVGs. Overall It was a great experience.
+Here I got a chance to explore more about tailwind CSS which is a CSS framework. Understood the work flow of the framework and providing manual values to classes was super cool. We can have almost control on the classes it provides. I explored width, padding, margin, background, position, background image, media-queries and a lot more classes provided by the framework to get this project up and running😃.
 
 ## Live Link
-**[Project in Action 🔥](https://dance-fsjs.netlify.app/)**
+**[Project in Action 🔥](https://rode-aarya.netlify.app/)**
